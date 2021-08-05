@@ -7,4 +7,5 @@
 * %успешного прохождения тестов - 60
 * %неуспешного прохождения тестов - 40
 
-![Отчет AllureReport](http://localhost:63342/Diplom/build/reports/allure-report/index.html?_ijt=p2g0s6b9k1digdf2dkreafnl2s&_ij_reload#)
+![Диаграмма AllureReport](![Allure Report - Google Chrome 2021-08-05 11 18 54](https://user-images.githubusercontent.com/76905867/128316807-6bbaa86d-0b8d-475c-9eff-9dbcb11995a1.png)
+)
