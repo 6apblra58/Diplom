@@ -6,6 +6,7 @@
 
 * %успешного прохождения тестов - 60
 * %неуспешного прохождения тестов - 40
-* Диаграмма AllureReport
+
+
 ![Allure Report](https://user-images.githubusercontent.com/76905867/128316807-6bbaa86d-0b8d-475c-9eff-9dbcb11995a1.png)
 
