@@ -31,5 +31,7 @@
 * ***gradlew AllureServe***
 ## Документация
 ![План автоматизации тестирования веб-формы сервиса покупки туров интернет-банка](https://github.com/6apblra58/Diplom/blob/master/reports/Plan.md)
+
 ![Отчет о проведенном тестировании](https://github.com/6apblra58/Diplom/blob/master/reports/Report.md)
+
 ![Отчетный документ по итогам автоматизации](https://github.com/6apblra58/Diplom/blob/master/reports/Summary.md)
